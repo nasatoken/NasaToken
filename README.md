@@ -30,6 +30,7 @@ All transactions are taxed at 10%, 5% of which is added to the liquidity pool an
 ## FAQ
 
 <p>
+
 **What is the contract ID?**
 0x70cf8d40a3d0f7bc88077ba7d103050d0001a653
 
