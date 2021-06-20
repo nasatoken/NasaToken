@@ -58,7 +58,7 @@ Controlling shares of the token have been burned meaning that no one can retriev
 
 1) **NASA Auditing Service** - The goal of the NASA Auditing Service is to expose scam projects, improve safety to investors and instil confidence in BSC projects. We have experienced auditors who will complete a Smart Contract Security Audit on other BSC projects with delivery in PDF format that includes errors/bugs we find and recommendations for improvement. The BIG win for NASA investors is that our profits from the NASA Seal of Approval will be invested back into NASA so holders are rewarded for loyalty and watch their investment continue to grow. We are excited to share that our first Smart Contract Security Audit is almost complete.
 
-2)**NASA Rug Pull Relief Fund** - There is nothing worse than getting excited about a project or new token launch only to have your hard-earned investment pulled unexpectedly by bad actors and left with nothing. At NASA, a portion of reflections from our marketing wallet will be used to give back to active NASA investors who have been rug pulled on other investments via an application process.
+2) **NASA Rug Pull Relief Fund** - There is nothing worse than getting excited about a project or new token launch only to have your hard-earned investment pulled unexpectedly by bad actors and left with nothing. At NASA, a portion of reflections from our marketing wallet will be used to give back to active NASA investors who have been rug pulled on other investments via an application process.
 </p>
 
 ## License
